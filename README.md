@@ -1,31 +1,34 @@
+<div align="center">
+  <img src="images\coding.gif" alt="Coding GIF" style="width: 100%; max-width:1000px; height: auto">
+</div>
 # 👋 Hello, There! 
 
-### 🎓 **Tech Enthusiast** | 🖥️ **Software Developer** | 🌱 **Lifelong Learner**  
+### 🎓 **Tech Enthusiast** | 🖥️ **Software Developer** | 🤖 **AI & MLOps Explorer** | 🌱 **Perpetual Learner**  
 ---
 
-<table border="0">
- <tr>
-    <td><b style="font-size:20px">👋 About Me</b></td>
-    
- </tr>
- <tr>
+<table border="0"> 
+  <tr> 
     <td>
-    <p>
-      Hi! I'm <strong>Shrayanendra Nath Mandal</strong>, a passionate software developer and tech enthusiast.I love exploring new technologies, solving challenging problems, and contributing to impactful projects.
-    </p>
-    <ul>
-      <li>🌟 <strong>I believe in </strong>learning by doing</li>
-      <li>🚀 <strong>Current Goal:</strong> Mastering MLOps</li>
-      <li>🌍 <strong>Location:</strong> Somewhere with Wi-Fi</li>
-    </ul>    
+      <b style="font-size:22px">✨ About Me</b>
     </td>
-    <td><img src="images\eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;"></td>
- </tr>
+  </tr> 
+    <tr> 
+      <td> 
+        <p> Hi! I'm <strong>Shrayanendra Nath Mandal</strong>, a software developer driven by curiosity and a passion for innovation. 
+        I thrive on solving complex problems, diving deep into emerging technologies, and turning ideas into impactful solutions. </p> 
+        <ul> 
+          <li>💡 <strong>Philosophy:</strong> Code, Learn, Iterate, Improve</li>  
+          <li>🚀 <strong>Currently Exploring:</strong> The fascinating world of Gen-AI & MLOps</li> 
+          <li>🌍 <strong>Location:</strong> Somewhere in the digital realm, coding my next breakthrough</li> 
+          <li>🎯 <strong>Hobbies:</strong> Debugging life one problem at a time, gaming, and watching anime</li> 
+        </ul> 
+      </td> 
+      <td><img src="images\relax.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
+      </td>
+    </tr> 
 </table>
 
 ---
-
-
 
 ## 💻 Technical Skills  
 
@@ -50,12 +53,15 @@
   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/PyGames-%23FF6600.svg?style=for-the-badge&logo=python&logoColor=white" alt="PyGames">
   <img src="https://img.shields.io/badge/PyAudio-%23FF4D4D.svg?style=for-the-badge&logo=python&logoColor=white" alt="PyAudio">
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
 ### **Database**
 <p>
   <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/OracleDB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB">
   <img src="https://img.shields.io/badge/MicrosoftSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MicrosoftSQL">
 </p>
@@ -84,32 +90,24 @@
 ## 📫 Let's Connect! 
 
 <div align="center">
-  
-  <!-- Row 1
-  <a href="https://www.linkedin.com/in/nasiruddin-thander/">
+  <!-- Row 1 -->
+  <a href="https://www.linkedin.com/in/shrayan-mandal/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/NThander2024">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
-  </a>
-  <a href="https://www.kaggle.com/nasiruddinthander/code">
+  <a href="https://www.kaggle.com/shrayanmandal">
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://leetcode.com/u/nasiruddinthander2002/">
+  <a href="https://leetcode.com/u/shrayanmandal21/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   
-  <!-- Row 2 
-  <a href="https://www.salesforce.com/trailblazer/s6pme7tr5gyrqbcrz5">
-    <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-  </a>
-  <a href="https://www.hackerrank.com/profile/nasiruddinthand1">
+  <!-- Row 2 -->
+  <a href="https://www.hackerrank.com/profile/shrayanmandal21">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="mailto:nasiruddinthander2002@gmail.com">
+  <a href="mailto:shrayanmandal21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
-</div> -->
+</div>
 
 ---
