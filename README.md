@@ -5,7 +5,6 @@
 # 👋 Hello, There! 
 
 ### 🎓 **Tech Enthusiast** | 🖥️ **Software Developer** | 🤖 **AI & MLOps Explorer** | 🌱 **Perpetual Learner**  
----
 
 <table border="0"> 
   <tr> 
