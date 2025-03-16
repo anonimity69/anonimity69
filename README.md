@@ -23,7 +23,7 @@
           <li>🎯 <strong>Hobbies:</strong> Debugging life one problem at a time, gaming, and watching anime</li> 
         </ul> 
       </td> 
-      <td><img src="images\relax.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
+      <td><img src="images\eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
       </td>
     </tr> 
 </table>
