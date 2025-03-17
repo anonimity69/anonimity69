@@ -4,7 +4,7 @@
 
 # 👋 Hello, There! 
 
-### 🎓 **Tech Enthusiast** | 🖥️ **Software Developer** | 🤖 **AI & MLOps Explorer** | 🌱 **Perpetual Learner**  
+### 🎓 **Tech Enthusiast** | 🖥️ **Data Engineer** | 🤖 **AI & MLOps Explorer** | 🌱 **Perpetual Learner**  
 
 <table border="0"> 
   <tr> 
@@ -14,7 +14,7 @@
   </tr> 
     <tr> 
       <td> 
-        <p> Hi! I'm <strong>Shrayanendra Nath Mandal</strong>, a software developer driven by curiosity and a passion for innovation. 
+        <p> Hi! I'm <strong>Shrayanendra Nath Mandal</strong>, a data engineer driven by curiosity and a passion for innovation. 
         I thrive on solving complex problems, diving deep into emerging technologies, and turning ideas into impactful solutions. </p> 
         <ul> 
           <li>💡 <strong>Philosophy:</strong> Code, Learn, Iterate, Improve</li>  
