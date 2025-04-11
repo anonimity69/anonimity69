@@ -4,7 +4,7 @@
 
 # 👋 Hello, There! 
 
-### 🎓 **Tech Enthusiast** | 🖥️ **Data Engineer** | 🤖 **AI & MLOps Explorer** | 🌱 **Perpetual Learner**  
+### 🎓 **Tech Enthusiast** | 🖥️ **Data Engineer** | 🤖 **AI & Reinforcement Learning Explorer** | 🌱 **Perpetual Learner**  
 
 <table border="0"> 
   <tr> 
