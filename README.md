@@ -18,7 +18,7 @@
         I thrive on solving complex problems, diving deep into emerging technologies, and turning ideas into impactful solutions. </p> 
         <ul> 
           <li>💡 <strong>Philosophy:</strong> Code, Learn, Iterate, Improve</li>  
-          <li>🚀 <strong>Currently Exploring:</strong> The fascinating world of Gen-AI & MLOps</li> 
+          <li>🚀 <strong>Currently Exploring:</strong> The fascinating world of Gen-AI & Reinforcement Learning</li> 
           <li>🌍 <strong>Location:</strong> Somewhere in the digital realm, coding my next breakthrough</li> 
           <li>🎯 <strong>Hobbies:</strong> Debugging life one problem at a time, gaming, and watching anime</li> 
         </ul> 
