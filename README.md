@@ -79,10 +79,7 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anonimity69&theme=tokyonight"/>
-  </a>
-  <br>
+  <img src="https://streak-stats.demolab.com?user=anonimity69&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimity69&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
