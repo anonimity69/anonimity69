@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="images\coding.gif" alt="Coding GIF" style="width: 100%; max-width:1000px; height: auto">
-</div>
-
 # 👋 Hello, There! 
 
 ### 🎓 **Tech Enthusiast** | 🖥️ **Data Engineer** | 🤖 **AI & Reinforcement Learning Explorer** | 🌱 **Perpetual Learner**  
