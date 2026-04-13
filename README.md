@@ -126,7 +126,9 @@ I don't just use AI tools — I build with them. From Graph RAG pipelines powere
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=anonimity69&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimity69&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anonimity69&theme=radical" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anonimity69&theme=radical" alt="Top Languages by Commit"/>
 </div>
 
 ---
